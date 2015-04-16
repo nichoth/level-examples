@@ -1,0 +1,13 @@
+[
+  {"key":["user","dominictarr"],"value":{"bio":"mad science boating"}},
+  {"key":["user","mafintosh"],"value":{"bio":"torrents of open source"}},
+  {"key":["user","substack"],"value":{"bio":"beep boop"}},
+  {"key":["post",1412991992967,"substack"],"value":{"body":"robots"}},
+  {"key":["post",1412992015628,"dominictarr"],"value":{"body":"jib sail"}},
+  {"key":["post",1412992057388,"substack"],"value":{"body":"npm publish"}},
+  {"key":["post",1412992068543,"mafintosh"],"value":{"body":"browserify browserify"}},
+  {"key":["post-user","dominictarr",1412992015628],"value":0},
+  {"key":["post-user","mafintosh",1412992068543],"value":0},
+  {"key":["post-user","substack",1412991992967],"value":0},
+  {"key":["post-user","substack",1412992057388],"value":0}
+]

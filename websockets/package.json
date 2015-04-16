@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "browserify": "^9.0.8",
+    "container-el": "0.0.1",
+    "level": "^0.18.0",
+    "level-list": "^0.11.1",
+    "level-live-stream": "^1.4.9",
+    "multilevel": "^6.1.0",
+    "shoe": "0.0.15"
+  }
+}
